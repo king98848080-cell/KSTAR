@@ -23,8 +23,6 @@ class Colors:
     MAGENTA = "\033[1;35m"
     RESET = "\033[0m"
 
-⚡ @K_star3
-
 
 class WiFiBypassTool:
     # ပုံသေထားရှိသော URL
