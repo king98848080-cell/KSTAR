@@ -23,7 +23,6 @@ class Colors:
     MAGENTA = "\033[1;35m"
     RESET = "\033[0m"
 
-🌐 @TermuxKStar3
 ⚡ @K_star3
 
 
